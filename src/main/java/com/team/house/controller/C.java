@@ -8,4 +8,7 @@ package com.team.house.controller;
  * @Created by Administrator
  */
 public class C {
+    public static void main(String[] args) {
+        System.out.println("hello");
+    }
 }
